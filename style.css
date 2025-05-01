@@ -1,0 +1,40 @@
+p {
+    color:black;
+    font-size: 20px;
+    font-family: market-fell,fantasy;
+}
+body {
+    background-color: grey;
+}
+body h1,h2 {
+    color:lightgray;
+    text-align: center;
+}
+td {
+    border-bottom: 5px dotted gold;
+    border-top: 5px dotted gold;
+    border-left: 5px dotted gold;
+    border-right: 5px dotted gold;
+    border-collapse: collapse;
+}
+a {
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 25px;
+}
+table{
+color: black;
+font-size: 20px;
+font-family: market-fell,fantasy;
+}
+.knopki {
+    color: black;
+    text-decoration: none;
+    background-color: #917409;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 32px;
+}
